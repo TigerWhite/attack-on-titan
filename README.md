@@ -1,7 +1,9 @@
 Attack On Titan
 ===============
 
-Inspired by
+http://zx1986.github.io/attack-on-titan/
+
+#### Inspired by
 
 - http://en.wikipedia.org/wiki/Attack_on_Titan
 - http://andrew-hoyer.com/experiments/walking/
